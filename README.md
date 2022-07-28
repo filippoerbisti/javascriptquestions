@@ -5,7 +5,8 @@
 ---
 
 Da base ad avanzato: metti alla prova quanto conosci JavaScript, rinfresca un po' le tue conoscenze o preparati per il tuo colloquio di programmazione! :muscle: :rocket: 
-< /br>	
+
+	
 Ho aggiunto le risposte nelle **sezioni compresse** sotto le domande, cliccaci sopra per espanderle. È solo per divertimento, buona fortuna!
 </div>
 
